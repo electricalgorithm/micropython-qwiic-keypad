@@ -1,6 +1,6 @@
 {
     "urls": [
-      ["qwiic_keypad.py", "github:electricalgorithm/micropython-qwiic-keypad/lib/qwiic_keypad.py"]
+      ["qwiic_keypad.py", "github:electricalgorithm/micropython-qwiic-keypad/src/qwiic_keypad.py"]
     ],
     "deps": [],
     "version": "1.0"
